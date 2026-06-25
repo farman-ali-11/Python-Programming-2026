@@ -1,3 +1,4 @@
+d = {} # Empty Dictionary
 marks = {
 
     "Farman" : 88,
