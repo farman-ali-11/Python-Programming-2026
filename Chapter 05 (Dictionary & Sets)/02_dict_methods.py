@@ -16,5 +16,5 @@ print(marks)
 print(marks.get("Farman2")) # Prints None
 print(marks["Farman2"]) # Returns an Error
 
-# print(marks.popitem())
-# print(marks.pop("Kamran", 67))
+print(marks.popitem())
+print(marks.pop("Kamran", 67))
