@@ -1,6 +1,6 @@
 import pyjokes
 
-# print("Here's a joke for you:")
+print("Here's a joke for you:")
 # This print a random joke
 joke = pyjokes.get_joke()
 
