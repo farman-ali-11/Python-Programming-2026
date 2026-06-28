@@ -1,3 +1,5 @@
+# Find name in the given list
+
 l = ["Farman", "Kamran", "Ahmed", "Kashif"]
 
 name = input("Enter your name: ")
