@@ -1,3 +1,5 @@
+# Find post using if else statement
+
 post = input("Enter post here: ")
 
 if("farman" in post.lower()):
