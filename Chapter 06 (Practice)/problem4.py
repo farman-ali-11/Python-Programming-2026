@@ -1,3 +1,5 @@
+# Find username characters
+
 username = input("Enter username: ")
 
 if(len(username)<10):
