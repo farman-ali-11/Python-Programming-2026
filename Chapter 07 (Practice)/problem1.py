@@ -1,3 +1,4 @@
+# Table of any number
 
 n = int(input("Enter number here: "))
 
