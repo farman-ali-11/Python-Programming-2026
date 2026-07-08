@@ -1,3 +1,11 @@
+'''
+Print (*) Pattern
+
+***
+**
+*
+
+'''
 
 def pattern(n):
     if(n==0):
