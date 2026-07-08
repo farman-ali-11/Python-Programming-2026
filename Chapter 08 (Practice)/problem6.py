@@ -1,4 +1,4 @@
-# Convert inches to cm
+# Convert inches to cms
 
 def inch_to_cms(n):
     return (n*2.54)
