@@ -1,3 +1,4 @@
+# Print table of 5
 
 def multiply(n):
     for i in range(1, 11):
