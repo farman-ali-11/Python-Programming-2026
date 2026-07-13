@@ -4,6 +4,9 @@ n = input("Enter your name: ")
 if (n == "shaili"):
     print(f"{n} is a Kuttii..")
 
+elif(n == "sheeli"):
+    print(f"{n} is a Khookhii..")
+
 elif (n == "farmo"):
     print(f"{n} is a goood boyy..")
 
