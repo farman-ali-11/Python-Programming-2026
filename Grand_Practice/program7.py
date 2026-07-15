@@ -9,4 +9,12 @@ fr.append("fffr")
 
 fr.reverse()
 
-print(fr)
+# print(fr)
+
+# print(type(fr))
+
+if (type(fr) == list):
+    print("This statement is TRUE", fr)
+
+else:
+    print("This is not a list")
