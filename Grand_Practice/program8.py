@@ -6,4 +6,4 @@ def fr(n):
 n = int(input("Enter value: "))
 c = fr(n)
 
-print(c)
+print(f"The square root of {n} is: {c}")
