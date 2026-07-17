@@ -28,4 +28,7 @@ d = c.issubset(a)
 
 e = {1, 2, 3, 5, 7}
 f = e.issuperset(c)
-print(f)
+# print(f)
+
+s = set()
+print(type(s))
