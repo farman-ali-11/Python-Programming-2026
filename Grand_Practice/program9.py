@@ -13,4 +13,11 @@ fr = {
 rf.update({"Farman" : 60, "Kashif" : 70})
 # print(rf)
 
-print(fr.keys(), fr.values())
+# print(fr.keys(), fr.values())
+
+a = {2, 4, 6, 7, 9, 1}
+b = {5, 3, 2, 1, 0, 5}
+
+a.union(b)
+b.intersection(a)
+print(a, b)
