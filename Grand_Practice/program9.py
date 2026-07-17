@@ -31,4 +31,8 @@ f = e.issuperset(c)
 # print(f)
 
 s = set()
-print(type(s))
+# print(type(s))
+
+s.add(2)
+s.add(4)
+print(s)
