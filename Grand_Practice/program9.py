@@ -20,4 +20,12 @@ b = {5, 3, 2, 1, 0, 5}
 
 a.union(b)
 b.intersection(a)
-print(a, b)
+# print(a, b)
+
+c = {1, 7}
+d = c.issubset(a)
+# print(d)
+
+e = {1, 2, 3, 5, 7}
+f = e.issuperset(c)
+print(f)
