@@ -7,6 +7,7 @@ fr = {
     "bb" : 56,
     "cc" : 78,
     "dd" : 90,
+    "gg" : 65,
 }
 
 # print(fr, type(fr))
