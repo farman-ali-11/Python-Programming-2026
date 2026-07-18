@@ -12,7 +12,7 @@ fr = {
 
 # print(fr, type(fr))
 
-rf.update({"Farman" : 60, "Kashif" : 70})
+rf.update({"Farman" : 60, "Kashif" : 70, "Ahmed" : 56})
 # print(rf)
 
 # print(fr.keys(), fr.values())
