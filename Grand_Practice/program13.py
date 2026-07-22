@@ -1,3 +1,4 @@
+# Simple_Naming_Program
 
 a = input("Enter your name: ")
 
@@ -6,4 +7,3 @@ if ( a == "farman"):
 
 else:
     print(f"{a} is a bad boy... ")
-    
