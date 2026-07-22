@@ -1,7 +1,7 @@
-
+# Simple Program
 n = int(input("Enter the value: "))
 
-if (n >= 5):
+if (n >= 6):
     print(f"The value is correct: {n}")
 
 else:
