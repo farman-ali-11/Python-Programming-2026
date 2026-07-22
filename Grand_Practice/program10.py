@@ -1,4 +1,4 @@
-# Temperature Conversion
+# Temperature Conversion (Celsius to Farenheit)
 
 def tempt(n):
     return (n * 1.8) + 32
