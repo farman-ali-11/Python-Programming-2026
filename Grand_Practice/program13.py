@@ -13,3 +13,12 @@ elif (a == "ahmed"):
 
 else:
     print(f"{a} is a bad boy... ")
+
+
+b = int(input("Enter the value: "))
+
+if (b == 45):
+    print("Value is correct..")
+
+else:
+    print("Value is not correct..")
