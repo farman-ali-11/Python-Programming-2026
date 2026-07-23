@@ -8,5 +8,8 @@ if ( a == "farman"):
 elif (a == "kashif"):
     print(f"{a} is not a good boy..")
 
+elif (a == "ahmed"):
+    print(f"{a} is a genius..")
+
 else:
     print(f"{a} is a bad boy... ")
