@@ -15,6 +15,7 @@ else:
     print(f"{a} is a bad boy... ")
 
 
+# Print Value Correction
 b = int(input("Enter the value: "))
 
 if (b == 45):
