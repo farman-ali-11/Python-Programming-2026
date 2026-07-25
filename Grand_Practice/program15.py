@@ -8,3 +8,4 @@ def sum(n):
     return sum(n-1)+n
 
 n = int(input("Enter the value: "))
+b = sum(n)
