@@ -1,3 +1,4 @@
+# Function with arguments
 
 def fr(name, ending="You are best"):
     print(f"Hey brother, {name}")
