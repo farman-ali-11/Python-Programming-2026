@@ -1,3 +1,4 @@
+# Print the * Pattern
 
 def pattern(n):
     if (n==0):
@@ -7,4 +8,4 @@ def pattern(n):
     pattern(n-1)
 
 n = int(input("Enter the value: "))
-b = pattern(n)
+pattern(n)
