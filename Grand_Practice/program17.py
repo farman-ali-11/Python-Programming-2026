@@ -6,4 +6,5 @@ def pattern(n):
     print("*" * n)
     pattern(n-1)
 
-pattern(5)
+n = int(input("Enter the value: "))
+b = pattern(n)
