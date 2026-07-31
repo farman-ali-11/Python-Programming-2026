@@ -5,5 +5,12 @@ a.append("dd")
 
 a.reverse()
 
-print(a)
+# print(a)
 
+a.remove("bb")
+# print(a)
+
+a.append("ee")
+
+a.sort()
+print(a)
