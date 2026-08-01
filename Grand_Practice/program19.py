@@ -17,4 +17,5 @@ a.sort()
 
 b = ["hh", "ii"]
 
+b.append("kk")
 print(b)
