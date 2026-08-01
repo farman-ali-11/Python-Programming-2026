@@ -13,4 +13,8 @@ a.remove("bb")
 a.append("ee")
 
 a.sort()
-print(a)
+# print(a)
+
+b = ["hh", "ii"]
+
+print(b)
