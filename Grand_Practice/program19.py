@@ -18,4 +18,6 @@ a.sort()
 b = ["hh", "ii"]
 
 b.append("kk")
+b.reverse()
+
 print(b)
