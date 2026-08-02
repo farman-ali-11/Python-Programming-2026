@@ -15,5 +15,7 @@ rf()
 
 def fun():
     print("Good Evening")
+    print(f"Hey.. {rf()}")
 
+fun()
 fun()
