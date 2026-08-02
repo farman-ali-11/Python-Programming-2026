@@ -12,3 +12,8 @@ def rf():
     print("Good Day")
 
 rf()
+
+def fun():
+    print("Good Evening")
+
+fun()
