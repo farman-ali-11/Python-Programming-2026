@@ -13,9 +13,9 @@ def rf():
 
 rf()
 
-def fun():
+def fun(name="Khan_Sahb"):
     print("Good Evening")
-    print(f"Hey.. {rf()}")
+    print(f"Hey.. {name}")
 
-fun()
+fun("Rajper_Sahb")
 fun()
