@@ -24,4 +24,9 @@ b.reverse()
 
 c = (23, 45, 67, 24, 90)
 
-print(c[1:])
+print(c[1:], type(c))
+
+d = set()
+d.add(3)
+d.add(5)
+print(d)
