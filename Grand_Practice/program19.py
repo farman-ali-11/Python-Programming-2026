@@ -20,4 +20,8 @@ b = ["hh", "ii"]
 b.append("kk")
 b.reverse()
 
-print(b)
+# print(b)
+
+c = (23, 45, 67, 24, 90)
+
+print(c[1:])
