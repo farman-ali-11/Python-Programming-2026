@@ -36,3 +36,11 @@ d.add(13)
 d.remove(5)
 print(d)
 print(type(d))
+
+e = {
+    "farman" : 60,
+    "kashif" : 70,
+}
+
+e.items
+print(e, type(e))
