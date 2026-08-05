@@ -45,4 +45,5 @@ e = {
 }
 
 e.items
+e.update({"Rajper " : 45})
 print(e, type(e))
