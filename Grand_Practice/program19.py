@@ -40,6 +40,8 @@ print(type(d))
 e = {
     "farman" : 60,
     "kashif" : 70,
+    "ahmed" : 68,
+    "ali" : 35,
 }
 
 e.items
