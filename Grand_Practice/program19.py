@@ -48,5 +48,7 @@ e = {
 }
 
 e.items
-e.update({"Rajper " : 45})
+e.update({"Rajper" : 45})
+e.update({"Lashari" : 67})
+e.update({"Khan" : 90})
 print(e, type(e))
