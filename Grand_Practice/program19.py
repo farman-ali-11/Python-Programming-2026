@@ -45,6 +45,8 @@ e = {
     "kashif" : 70,
     "ahmed" : 68,
     "ali" : 35,
+    "Rehman" : 59,
+    "Lakhan" : 69,
 }
 
 e.items
